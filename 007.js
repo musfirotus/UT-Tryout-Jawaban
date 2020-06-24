@@ -1,0 +1,5 @@
+//Code by musfirotus
+function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+console.log(reverseString('semua kata-kata'));
